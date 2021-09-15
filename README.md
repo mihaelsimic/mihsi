@@ -1,11 +1,11 @@
-# Hi, I'm Mihael!
+# 🧔 Hi, I'm Mihael!
 
 I'm a Product Manager who started creating content and sharing my experience in the product development process.
 
 - :austria: with :serbia: roots
-- 🐶 person
 - ❤️ Food, Travel, Netflix, Coffee
 - 🎮 PC, PS4 & Switch
+- 🐶 person
 
 ## 👋 Work related section
 
@@ -19,3 +19,7 @@ I'm a Product Manager who started creating content and sharing my experience in 
   <a href="https://twitter.com/simic_mihael"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.polywork.com/"><img src="https://img.shields.io/badge/-Polywork-blueviolet?style=for-the-badge&logo=Polywork&logoColor=white"/></a>
 </p>
+
+## 🧐 My Repos
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=mihsi&repo=ToscaDefectHelper&theme=buefy)](https://github.com/mihsi/ToscaDefectHelper)
