@@ -17,7 +17,7 @@ I'm a Product Manager who started creating content and sharing my experience in 
 <p align="center">
   <a href="https://www.linkedin.com/in/mihael-simic/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/simic_mihael"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.polywork.com/"><img src="https://img.shields.io/badge/-Polywork-blueviolet?style=for-the-badge&logo=Polywork&logoColor=white"/></a>
+  <a href="https://www.polywork.com/mihaelsimic"><img src="https://img.shields.io/badge/-Polywork-blueviolet?style=for-the-badge&logo=Polywork&logoColor=white"/></a>
 </p>
 
 ## 🧐 My Repos
