@@ -9,8 +9,8 @@ I'm a Product Manager who started creating content and sharing my experience in 
 
 ## 👋 Work related section
 
-- Product Manager at [Tricentis](https://www.tricentis.com/)
-- Check out our latest product [Elastic Execution Grid](https://onboarding.my.tricentis.com)
+- Product Manager at [Bitmovin](https://www.bitmovin.com/)
+- Check out our latest product [Bitmovin Developer Streaming Platform](http://community.bitmovin.com/signup)
 
 ## 🤓 Connect
 
