@@ -25,4 +25,4 @@ I'm a Product Manager who started creating content and sharing my experience in 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mihsi&repo=ToscaDefectHelper&theme=buefy)](https://github.com/mihsi/ToscaDefectHelper)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mihsi&repo=Player&theme=buefy)](https://github.com/mihaelsimic/Player)
 
-https://github-stats-alpha.vercel.app/api?username={mihsi}
+[![](https://github-stats-alpha.vercel.app/api?username={your-github-username})
