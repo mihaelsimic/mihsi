@@ -2,7 +2,7 @@
 
 I'm a Product Manager who started creating content and sharing my experience in the product development process.
 
-- :austria: with :serbia: roots
+- :austria: Vienna
 - ❤️ Food, Travel, Netflix, Coffee
 - 🎮 PC, PS4 & Switch
 - 🐶 person
@@ -10,7 +10,7 @@ I'm a Product Manager who started creating content and sharing my experience in 
 ## 👋 Work related section
 
 - Product Manager at [Bitmovin](https://www.bitmovin.com/)
-- Check out our latest product [Bitmovin Developer Streaming Platform](http://community.bitmovin.com/signup)
+- Check out our latest product [Bitmovin Streams](https://bitmovin.com/streams/)
 
 ## 🤓 Connect
 
